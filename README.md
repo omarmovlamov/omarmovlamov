@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript,css and React**
 
