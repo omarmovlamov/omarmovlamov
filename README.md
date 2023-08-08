@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omarmovlamov&show_icons=true&locale=en&layout=compact" alt="omarmovlamov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarmovlamov&show_icons=true&locale=en" alt="omarmovlamov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmovlamov&" alt="omarmovlamov" /></p>
